@@ -1,0 +1,33 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Add the 1st number to the 2nd number to get the outcome of the combined numbers. (SUM)
+
+X + Y = Z
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Check to see if the number is divisible by 2. If so, it is an even number. If not, It is an odd number.
+
+X / 2 = Integer (even)
+
+X / 2 != Integer (odd)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Your pseudocode here)
+A.
+ N1, N2, N3, N4, N5
+B.
+(N1 + N2 + N3 +N4 + N5)/5 = AVG
+C.
+Iterate through the numbers, comparing each number to the previous number for the greatest number until it reaches the last number. Then give the smallest value and the largest value.
+D.
+
+
+-- END --
