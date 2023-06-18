@@ -26,8 +26,14 @@ A.
 B.
 (N1 + N2 + N3 +N4 + N5)/5 = AVG
 C.
-Iterate through the numbers, comparing each number to the previous number for the greatest number until it reaches the last number. Then give the smallest value and the largest value.
+Iterate through the numbers, comparing each number to the previous number for the larger number until it reaches the last number. Then give the smallest value and the largest value.
+N1 < N2 < N3 < N4 < N5
+Smallest: N1 
+Largest: N5
 D.
-
-
+Step B:
+AVG 
+ - the result of adding a group of numbers together and dividing by the amount of numbers in that group
+Step C:
+Smallest and largest value can be found by comparison of other numbers in the sequence if they are put in order of numerical value from greatest to smallest 
 -- END --
